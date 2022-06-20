@@ -1,0 +1,44 @@
+[{
+  "_id": 1,
+  "matricula": "4115BZT",
+  "modelo": "Saxo",
+  "marca": "Citroen",
+  "cc": 1400,
+  "carroceria": "coupe",
+  "tipoVehiculo": "Coche",
+  "reparaciones": [
+    7
+  ]
+},{
+  "_id": 2,
+  "matricula": "1567JUX",
+  "modelo": "Serie 3 e36",
+  "marca": "Bmw",
+  "cc": 2500,
+  "carroceria": "Coupe",
+  "tipoVehiculo": "Coche"
+},{
+  "_id": 3,
+  "matricula": "1234JFP",
+  "modelo": "awfdawf",
+  "marca": "Roteco",
+  "cc": 120,
+  "carroceria": "awfaw",
+  "tipoVehiculo": "Tractor"
+},{
+  "_id": 4,
+  "matricula": "1231JGF",
+  "modelo": "Honda",
+  "marca": "Suzuki",
+  "cc": 500,
+  "carroceria": "awfa",
+  "tipoVehiculo": "Moto"
+},{
+  "_id": 5,
+  "matricula": "1242FJK",
+  "modelo": "Grande",
+  "marca": "Honda",
+  "cc": 600,
+  "carroceria": "awfaw",
+  "tipoVehiculo": "Moto"
+}]

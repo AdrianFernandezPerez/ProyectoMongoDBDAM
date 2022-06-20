@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "nombre": "Adrian",
+  "email": "adrian@gmail.com",
+  "telefono": [
+    "123456789",
+    "987654321"
+  ],
+  "provincia": "Pontevedra",
+  "codigoPostal": 36458,
+  "direccion": "A Pedra",
+  "pais": "Espanha",
+  "localidad": "Salvaterra",
+  "vehiculos": [
+    1
+  ]
+},{
+  "_id": 2,
+  "nombre": "Jose",
+  "email": "jose@gmail.com",
+  "telefono": [
+    "765845321"
+  ],
+  "provincia": "Ourense",
+  "codigoPostal": 36489,
+  "direccion": "A Calle",
+  "pais": "Espanha",
+  "localidad": "Ourense",
+  "vehiculos": [
+    2
+  ]
+},{
+  "_id": 3,
+  "nombre": "Laura",
+  "email": "laura@gmail.com",
+  "telefono": [
+    "789345126",
+    "356789456"
+  ],
+  "provincia": "A Corunha",
+  "codigoPostal": 36423,
+  "direccion": "Calle Vilagarcia",
+  "pais": "Espanha",
+  "localidad": "Moranha",
+  "vehiculos": [
+    3
+  ]
+},{
+  "_id": 4,
+  "nombre": "prueba",
+  "email": "prueba@gmail.com",
+  "telefono": [
+    "123132146"
+  ],
+  "provincia": "Espanha",
+  "codigoPostal": 12314,
+  "direccion": "Espanha",
+  "pais": "Espanha",
+  "localidad": "Espanha"
+}]
